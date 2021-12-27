@@ -17,8 +17,10 @@ Files:
  
  
 2.code
- 1.main.py: the entrance of the program;
- 2.model.py：the structure of GCN module；
- 3.layers,py: the setting of GCN layers;
- 4.bipartite_gat.py: the structure of GAT module;
+
+ 1.main.py: the entrance of the program;  
+ 2.model.py：the structure of GCN module；  
+ 3.layers,py: the setting of GCN layers;    
+ 4.bipartite_gat.py: the structure of GAT module;      
+ 
 
