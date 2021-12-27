@@ -15,6 +15,7 @@ Files:
  3. circRNA_sim stores circRNA fused similarity matrix
  4. circ_list and disease_list store circRNA ids and disease ids, respectively;
  
+ 
 2.code
  1.main.py: the entrance of the program;
  2.model.py：the structure of GCN module；
